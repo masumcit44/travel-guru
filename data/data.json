@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "placeName": "Cox's Bazar",
+      "description": "Cox's Bazar is a seaside town known for its long sandy beach and historical significance. It is the longest natural sea beach in the world and a popular destination for tourists from all over the world.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cox%27s_Bazar_Sunset.JPG"
+    },
+    {
+      "id": 2,
+      "placeName": "Sreemangal",
+      "description": "Sreemangal is a hilly area known for its tea plantations, forests, and wildlife. It is also known as the tea capital of Bangladesh and attracts tourists with its scenic beauty and serene environment.",
+      "image": "https://novemecoresort.com/wp-content/uploads/2018/12/3.jpg"
+    },
+    {
+      "id": 3,
+      "placeName": "Sundarbans",
+      "description": "The Sundarbans is a mangrove forest and delta located in the southern part of Bangladesh. It is the largest mangrove forest in the world and home to a variety of wildlife, including the Bengal tiger. It is a popular destination for nature lovers and eco-tourists.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Bengal_Tiger_in_Sundarbans_National_Park.jpg"
+    }
+  ]

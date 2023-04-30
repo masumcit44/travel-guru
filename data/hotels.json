@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Cox's Bazar Beach Resort",
+    "location": "Cox's Bazar",
+    "rating": 4.5,
+    "cost_per_night": 80,
+    "image_url": "https://royal-tulip-coxs-bazar-hotel-cox-s-bazar.booked.net/data/Photos/r1280x416/3452/345236/345236287/Royal-Tulip-Coxs-Bazar-Hotel-Coxs-Bazar-Exterior.JPEG "
+  },
+  {
+    "title": "Ocean Paradise Hotel and Resort",
+    "location": "Cox's Bazar",
+    "rating": 4.2,
+    "cost_per_night": 120,
+    "image_url": "https://royal-tulip-coxs-bazar-hotel-cox-s-bazar.booked.net/data/Photos/r1280x416/3452/345236/345236293/Royal-Tulip-Coxs-Bazar-Hotel-Coxs-Bazar-Exterior.JPEG"
+  },
+  {
+    "title": "Long Beach Hotel",
+    "location": "Cox's Bazar",
+    "rating": 4.3,
+    "cost_per_night": 90,
+    "image_url": "https://royal-tulip-coxs-bazar-hotel-cox-s-bazar.booked.net/data/Photos/r1280x416/3452/345236/345236281/Royal-Tulip-Coxs-Bazar-Hotel-Coxs-Bazar-Exterior.JPEG "
+  },
+  {
+    "title": "Sundarban Royal Eco Resort",
+    "location": "Sundarbans",
+    "rating": 4.4,
+    "cost_per_night": 100,
+    "image_url": "https://example.com/sundarban-royal-eco-resort.jpg"
+  },
+  {
+    "title": "Sundarban Gateway Resort",
+    "location": "Sundarbans",
+    "rating": 4.1,
+    "cost_per_night": 60,
+    "image_url": "https://example.com/sundarban-gateway-resort.jpg"
+  },
+  {
+    "title": "Sundarban Mangrove Retreat",
+    "location": "Sundarbans",
+    "rating": 4.0,
+    "cost_per_night": 80,
+    "image_url": "https://example.com/sundarban-mangrove-retreat.jpg"
+  },
+  {
+    "title": "Tea Resort Sreemangal",
+    "location": "Sreemangal",
+    "rating": 4.2,
+    "cost_per_night": 70,
+    "image_url": "https://example.com/tea-resort-sreemangal.jpg"
+  },
+  {
+    "title": "Grand Sultan Tea Resort & Golf",
+    "location": "Sreemangal",
+    "rating": 4.7,
+    "cost_per_night": 150,
+    "image_url": "https://example.com/grand-sultan-tea-resort.jpg"
+  },
+  {
+    "title": "The Palace Luxury Resort",
+    "location": "Sreemangal",
+    "rating": 4.4,
+    "cost_per_night": 120,
+    "image_url": "https://example.com/palace-luxury-resort.jpg"
+  }
+]
